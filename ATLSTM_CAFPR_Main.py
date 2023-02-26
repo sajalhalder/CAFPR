@@ -1,5 +1,6 @@
 """
-ATST-LSTM reimplemented by Sajal Halder
+Capacity Aware Fair POI Recommendation 
+Implemented by: Sajal Halder
 PhD Candidate, RMIT University, Australia
 """
 from __future__ import print_function

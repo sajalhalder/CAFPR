@@ -6,3 +6,14 @@ To use this code in your research work please cite the following paper.
 
 Sajal Halder, Kwan Hui Lim, Jeﬀrey Chan, and Xiuzhen Zhang. Capacity Aware Fair POI Recommendation. Submitted to Applied Soft Computing,  2023.
 
+# Implemtation Details
+In this CAFPR model implemenation, we have used existing recommendation model and our proposed capacity aware over demand and underdemand adjust policy. 
+
+Required Packages:
+
+tensorflow: 2.4.1
+pandas: 1.2.0
+
+CAFPR model has been implemented in ATLSTM_CAFPR_mail.py file.
+
+Here we added only one dataset (California Advencture). If you are interested to know about more datasets email at sajal.csedu01@gmail.com
